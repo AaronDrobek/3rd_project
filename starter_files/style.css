@@ -12,3 +12,100 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+#logo {
+  background-color: #ff8523;
+  font-size: 12pt;
+}
+
+header {
+  background-color: #ff8523;
+  padding-top: 8px;
+  padding-bottom: 40px;
+
+
+}
+.main_navigation a{
+  background-color: #ff8523;
+  padding-top: 20px;
+  padding-bottom: 10px;
+
+
+}
+.main_navigation a{
+    background-color: #ff8523;
+    padding: 0em 3.5em;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-decoration: none;
+    border: .5px solid white;
+    font-size: 10pt;
+    color: white;
+    font-weight: bold;
+}
+
+section{
+  border-bottom: 3px #eee solid;
+
+
+}
+table{
+  border-collapse: collapse;
+}
+thead td{
+  border: 2px solid black;
+}
+table img{
+  width: 30%;
+}
+thead{
+background-color: #1fabe5;
+color: white;
+border: 1px solid black;
+
+ }
+td{
+  border: 2px #1fabe5 solid;
+}
+tr {
+  margin: 0px;
+}
+p {
+  font-size: 12pt;
+}
+
+h2, h3 {
+  color: #1fabe5;
+}
+li{
+  font-weight: 500;
+  font-size: 10pt;
+}
+
+.submit_container input{
+  color: #1fabe5;
+}
+.name{
+  color: white;
+  border: 2px #ff8523 solid;
+  background-color: #ff8523;
+}
+form {
+  border: 1px #dddddd solid;
+  background: #dddddd;
+}
+textarea {
+  border: 1px #1fabe5 solid;
+}
+label {
+  margin-top: : 25px;
+}
+submit_container{
+  color: white;
+}
